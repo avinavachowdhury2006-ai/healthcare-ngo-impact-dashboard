@@ -74,7 +74,7 @@ Monthly	Board Members & Institutional Donors	Strategic resource allocation, gran
 
 
 
-M&E Validated KPI Logic Tree
+M&E (Monitoring and Evaluation) Validated KPI Logic Tree
 To satisfy standard Monitoring & Evaluation (M&E) protocols (often required by large foundations like Catalyst 2030 or Sattva), your metrics must ladder up logically. This tree maps your NGO's daily activities to long-term systemic change, explicitly referencing the Streamlit dashboard calculations.
 Level 1: Inputs (Resources Invested)
 •	Metric: Total Financial Capital Deployed.
