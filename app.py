@@ -52,7 +52,7 @@ filtered_df = df[(df["Village"].isin(selected_villages)) &
 # --------------------------------------------------------
 # 4. APP HEADER & KPIS
 # --------------------------------------------------------
-st.title("🌟 Enhanced Patient Impact & Engagement Dashboard")
+st.title("🌟 Field-to-KPI: NGO Impact Dashboard")
 st.markdown("Going beyond numbers to track event engagement, financial efficiency, and real human impact.")
 # Calculate KPIs
 total_patients = len(filtered_df)
